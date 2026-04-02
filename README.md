@@ -11,4 +11,4 @@ python main.py
 ### It just study bro dont care it 
 
 # link youtube im studed 
-<a href = "https://youtu.be/cZQ6m3W4OU4?si=3i4NOwDXNQB6XENZ" title = "Study python"> </a>
+<a href = "https://youtu.be/cZQ6m3W4OU4?si=3i4NOwDXNQB6XENZ" title = "Study python">study with python </a>
