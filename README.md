@@ -1,11 +1,11 @@
 # My Python project 
 
 ## install
-pip install -r
-requirements.txt
+pip install -r requirements.txt <br>
+pip install -r python
 
 ## RUN
-python main.py
+python syka blyat.py
 
 # What's in my project?
 ### It just study bro dont care it 
