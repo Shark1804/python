@@ -5,10 +5,10 @@ pip install -r requirements.txt <br>
 pip install -r python
 
 ## RUN
-python syka blyat.py
+python syka_blyat.py
 
 # What's in my project?
-### It just study bro dont care it 
+### It's just my studies bro dont give af about it
 
-# link youtube im studed 
+# link youtube i've studied: 
 <a href = "https://youtu.be/cZQ6m3W4OU4?si=3i4NOwDXNQB6XENZ" title = "Study python">study with python </a>
