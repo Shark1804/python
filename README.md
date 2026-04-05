@@ -1,10 +1,15 @@
-# My Python project 
+<h1> My Python project </h1>
 
 ## install
 pip install -r requirements.txt <br>
 pip install -r python
+pip install cykablyat.py (j4f)
 
 ## RUN
+<<<<<<< HEAD
+=======
+clone git https://github.com/Shark1804/python.git
+>>>>>>> e9e4058 (5 April)
 python syka_blyat.py
 
 # What's in my project?
