@@ -5,6 +5,8 @@ git add .
 git commit -m "update"
 git push -u origin main
 
+git pull origin main --rebase
+
 ## install
 pip install -r requirements.txt <br>
 pip install -r python
