@@ -1,3 +1,10 @@
+#bai116: Quản Lý Sinh Viên
+#viết một cấu trúc + OOP đơn giản
+#yêu cầu : mỗi sinh viên có :mã sinh viên,họ tên,điểm toán lý hoá
+#viết chương trình tính điểm trung bình của mỗi sinh viên
+#in ra danh sách sinh viên nhận học bổng (DTB >= 8)
+#sắp xếp danh sách thang điểm trung bình giảm dần
+
 class Ma_sinh_vien:
     def __init__(self,diem_toan,diem_ly,diem_tin,ma_sv,ho_ten):  #phương thức khởi tạo để tạo một đối tượng sinh viên mới với các thuộc tính điểm toán, điểm lý, điểm tin học, mã sinh viên và họ tên
         self.diem_toan = diem_toan                                   #gán giá trị điểm toán cho thuộc tính diem_toan của đối tượng sinh viên

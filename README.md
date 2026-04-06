@@ -1,5 +1,10 @@
 <h1> My Python project </h1>
 
+## GIT push
+git add .
+git commit -m "update"
+git push -u origin main
+
 ## install
 pip install -r requirements.txt <br>
 pip install -r python
