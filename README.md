@@ -1,6 +1,10 @@
 <h1> My Python project </h1>
 
 ## GIT push
+git remote add new-origin <link-repo><br>
+
+git remote remove origin <br>
+git remove add origin <link-repo> <br>
 git add . <br>
 git commit -m "update" <br>
 git push -u origin main <br>
